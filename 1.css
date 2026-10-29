@@ -1,0 +1,48 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+header{
+    background-color:steelblue;
+    color: rgb(240, 235, 235);
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    background-color: white ;
+    text-decoration: none;
+    margin: 15px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: red;
+}
+th,td{
+    border: solid black ;
+    text-align: center;
+    color: black;
+}
+
+nav a{
+    color: steelblue;
+    text-decoration: none;
+    margin: 30px;
+}
+
+section{
+    padding: 80px;
+}
+
+h2{
+    color: steelblue;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: steelblue;
+}
